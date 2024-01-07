@@ -156,6 +156,7 @@ p.note { display: none; }
 <a href="20240106_019.JPG" data-lightbox="abc"><img src="20240106_019.JPG" alt="サンプル画像" width="900" /></a>
 
 <a href="20240106_021.JPG" data-lightbox="abc"><img src="20240106_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240106_044.JPG" data-lightbox="abc"><img src="20240106_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_022.JPG" data-lightbox="abc"><img src="20240106_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_023.JPG" data-lightbox="abc"><img src="20240106_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_024.JPG" data-lightbox="abc"><img src="20240106_024.JPG" alt="サンプル画像" width="900" /></a>
@@ -166,7 +167,7 @@ p.note { display: none; }
 
 
 
-<a href="20240106_044.JPG" data-lightbox="abc"><img src="20240106_044.JPG" alt="サンプル画像" width="900" /></a>
+
 
 <!--
 <br><br><p>以下写真集！</p>
