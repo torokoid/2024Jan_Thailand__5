@@ -157,11 +157,11 @@ p.note { display: none; }
 <a href="20240106_042.JPG" data-lightbox="abc"><img src="20240106_042.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">18:50発の夜間飛行なので、バンコクの夜景が見えます</span></h2>
 <a href="20240106_014.JPG" data-lightbox="abc"><img src="20240106_014.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">機内食はパンと水</span></h2>
+<h2><span class="yellow">機内食はズッシリとしたサンドイッチと水</span></h2>
 <a href="20240106_015.JPG" data-lightbox="abc"><img src="20240106_015.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">70分程でチェンライ国際空港に到着</span></h2>
 <a href="20240106_016.JPG" data-lightbox="abc"><img src="20240106_016.JPG" alt="サンプル画像" width="900" /></a>
-
+<h2><span class="yellow">チェンライ国際空港です</span></h2>
 <a href="20240106_018.JPG" data-lightbox="abc"><img src="20240106_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_019.JPG" data-lightbox="abc"><img src="20240106_019.JPG" alt="サンプル画像" width="900" /></a>
 
@@ -169,10 +169,13 @@ p.note { display: none; }
 
 <a href="20240106_022.JPG" data-lightbox="abc"><img src="20240106_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_044.JPG" data-lightbox="abc"><img src="20240106_044.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">移動したのはタイの北端部</span></h2>
 <a href="20240106_023.JPG" data-lightbox="abc"><img src="20240106_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_024.JPG" data-lightbox="abc"><img src="20240106_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_025.JPG" data-lightbox="abc"><img src="20240106_025.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">途中でセブンイレブンに寄りました</span></h2>
 <a href="20240106_028.JPG" data-lightbox="abc"><img src="20240106_028.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">店から出ると、周囲の車は全部吐けてしまってました<br>まだ夜の８時過ぎですがバンコクとは大違い</span></h2>
 <a href="20240106_027.JPG" data-lightbox="abc"><img src="20240106_027.JPG" alt="サンプル画像" width="900" /></a>
 
 
