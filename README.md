@@ -132,25 +132,34 @@ p.note { display: none; }
 <h2><span class="yellow">6日はバンコクからチェンライに移動すべく、スワンナプーム国際空港に移動！</span></h2>
 <a href="20240106_001.JPG" data-lightbox="abc"><img src="20240106_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_002.JPG" data-lightbox="abc"><img src="20240106_002.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">空港内では白人さんが目立ちます</span></h2>
 <a href="20240106_003.JPG" data-lightbox="abc"><img src="20240106_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_004.JPG" data-lightbox="abc"><img src="20240106_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_009.JPG" data-lightbox="abc"><img src="20240106_009.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">赤鬼と青鬼のオブジェが仁王立ち</span></h2>
 <a href="20240106_005.JPG" data-lightbox="abc"><img src="20240106_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_006.JPG" data-lightbox="abc"><img src="20240106_006.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">赤鬼と青鬼の足元にある説明書を撮影したら、それぞれの鬼さんのHPに飛びます</span></h2>
 <a href="20240106_007.JPG" data-lightbox="abc"><img src="20240106_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_008.JPG" data-lightbox="abc"><img src="20240106_008.JPG" alt="サンプル画像" width="900" /></a>
-
+<h2><span class="yellow">搭乗ゲートに向かいます</span></h2>
 <a href="20240106_010.JPG" data-lightbox="abc"><img src="20240106_010.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">空港内には王室直営店</span></h2>
 <a href="20240106_034.JPG" data-lightbox="abc"><img src="20240106_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_035.JPG" data-lightbox="abc"><img src="20240106_035.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">王家の農場などで採れた収穫物の販売で、価格は民間企業では太刀打ちできないレベル</span></h2>
 <a href="20240106_036.JPG" data-lightbox="abc"><img src="20240106_036.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">タイ空港の搭乗口エリアにつきました</span></h2>
 <a href="20240106_037.JPG" data-lightbox="abc"><img src="20240106_037.JPG" alt="サンプル画像" width="900" /></a>
-
+<h2><span class="yellow">早めに着いたのでお客さんはまばら</span></h2>
 <a href="20240106_041.JPG" data-lightbox="abc"><img src="20240106_041.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">搭乗口もまだ無人でした</span></h2>
 <a href="20240106_042.JPG" data-lightbox="abc"><img src="20240106_042.JPG" alt="サンプル画像" width="900" /></a>
-
+<h2><span class="yellow">18:50発の夜間飛行なので、バンコクの夜景が見えます</span></h2>
 <a href="20240106_014.JPG" data-lightbox="abc"><img src="20240106_014.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">機内食はパンと水</span></h2>
 <a href="20240106_015.JPG" data-lightbox="abc"><img src="20240106_015.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">70分程でチェンライ国際空港に到着</span></h2>
 <a href="20240106_016.JPG" data-lightbox="abc"><img src="20240106_016.JPG" alt="サンプル画像" width="900" /></a>
 
 <a href="20240106_018.JPG" data-lightbox="abc"><img src="20240106_018.JPG" alt="サンプル画像" width="900" /></a>
