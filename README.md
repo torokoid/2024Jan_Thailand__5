@@ -157,10 +157,14 @@ p.note { display: none; }
 <a href="20240106_042.JPG" data-lightbox="abc"><img src="20240106_042.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">18:50発の夜間飛行なので、バンコクの夜景が見えます</span></h2>
 <a href="20240106_014.JPG" data-lightbox="abc"><img src="20240106_014.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">バンコクの夜景動画</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gI0SHTpktH4?si=9QYZH0W1I_E15wzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h2><span class="yellow">機内食はズッシリとしたサンドイッチと水</span></h2>
 <a href="20240106_015.JPG" data-lightbox="abc"><img src="20240106_015.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">70分程でチェンライ国際空港に到着</span></h2>
 <a href="20240106_016.JPG" data-lightbox="abc"><img src="20240106_016.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">チェンライ到着の動画</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1buvjIPzS64?si=eh-r95rJREvQi5aY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h2><span class="yellow">チェンライ国際空港です</span></h2>
 <a href="20240106_018.JPG" data-lightbox="abc"><img src="20240106_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_019.JPG" data-lightbox="abc"><img src="20240106_019.JPG" alt="サンプル画像" width="900" /></a>
