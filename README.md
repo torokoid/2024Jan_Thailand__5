@@ -129,16 +129,17 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 <br><p>タイ観光</p>
-<h2><span class="yellow">1日に探索した巨大ショッピングモールを再度訪問<br>前回は完全に迷子になり、セキュリティーに駐車場の位置を教えてもう羽目になりましたが、今回はリベンジ！</span></h2>
+<h2><span class="yellow">6日はバンコクからチェンライに移動すべく、スワンナプーム国際空港に移動！</span></h2>
 <a href="20240106_001.JPG" data-lightbox="abc"><img src="20240106_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_002.JPG" data-lightbox="abc"><img src="20240106_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_003.JPG" data-lightbox="abc"><img src="20240106_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_004.JPG" data-lightbox="abc"><img src="20240106_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240106_009.JPG" data-lightbox="abc"><img src="20240106_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_005.JPG" data-lightbox="abc"><img src="20240106_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_006.JPG" data-lightbox="abc"><img src="20240106_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_007.JPG" data-lightbox="abc"><img src="20240106_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_008.JPG" data-lightbox="abc"><img src="20240106_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240106_009.JPG" data-lightbox="abc"><img src="20240106_009.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20240106_010.JPG" data-lightbox="abc"><img src="20240106_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_034.JPG" data-lightbox="abc"><img src="20240106_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_035.JPG" data-lightbox="abc"><img src="20240106_035.JPG" alt="サンプル画像" width="900" /></a>
