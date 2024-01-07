@@ -160,7 +160,7 @@ p.note { display: none; }
 <a href="20240106_023.JPG" data-lightbox="abc"><img src="20240106_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_024.JPG" data-lightbox="abc"><img src="20240106_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_025.JPG" data-lightbox="abc"><img src="20240106_025.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240106_026.JPG" data-lightbox="abc"><img src="20240106_026.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20240106_027.JPG" data-lightbox="abc"><img src="20240106_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240106_028.JPG" data-lightbox="abc"><img src="20240106_028.JPG" alt="サンプル画像" width="900" /></a>
 
